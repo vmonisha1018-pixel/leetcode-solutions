@@ -1,18 +1,4 @@
-# LeetCode Solutions
-
-Name: Monisha.V
-Roll Number: R25EJ078
-
-Personal LeetCode practice log — part of B25GE0101 portfolio
-
-## Topics
-
-- [Arrays & Strings](./arrays-strings/)
-- [Basic Algorithms](./basic-algorithms/)
-- [Stacks](./stacks/)
-- [Linked Lists](./linked-lists/)
-
-## Progress
+# LeetCode Progress Tracker
 
 | Date | Problem | Topic | Difficulty | Status | Time Taken |
 |---|---|---|---|---|---|
